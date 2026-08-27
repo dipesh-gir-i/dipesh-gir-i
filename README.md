@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @dipesh-gir-i
-- 👀 I’m interested in building effective solutions
-- 🌱 I’m currently learning Data Science and Artificial Intelligence
-- 💞️ I’m looking to collaborate on real-world problems that affect people globally
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/dipesh-giri-26188b323/">LinkedIn</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I made my first website at the Age of 12
+# Hi, I'm Dipesh Giri
 
-<!---
-dipesh-gir-i/dipesh-gir-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data Science and Machine Learning
+
+Passionate about transforming data into meaningful insights and building practical machine learning solutions.
+
+## Skills
+
+Python • SQL • Pandas • NumPy • Scikit-learn • Exploratory Data Analysis • Data Cleaning • Machine Learning • Matplotlib • Seaborn • Excel • Power BI • Git
+
+## Featured Project
+
+### Valorant Performance Analyzer
+
+A data analysis project for evaluating Valorant player performance using data preprocessing, statistical analysis, and visualization.
+
+[View Project](https://github.com/dipesh-gir-i/Valorant-Performace-Analyzer)
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/dipesh-giri-26188b323/
+* Email: [giridipesh2100@gmail.com](mailto:giridipesh2100@gmail.com)
