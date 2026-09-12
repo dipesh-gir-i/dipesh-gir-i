@@ -1,22 +1,53 @@
 # Hi, I'm Dipesh Giri
 
-### Data Science and Machine Learning
+### Data Science & AI @ IIT Guwahati
 
-Passionate about transforming data into meaningful insights and building practical machine learning solutions.
+I like taking ideas that start as "What if?" and turning them into something real.
 
-## Skills
+I'm interested in data, AI, and software, and I enjoy experimenting with new ideas, building things from scratch, and finding practical ways to solve problems.
 
-Python • SQL • Pandas • NumPy • Scikit-learn • Exploratory Data Analysis • Data Cleaning • Machine Learning • Matplotlib • Seaborn • Excel • Power BI • Git
+## What I'm Building
 
-## Featured Project
+### Context Reader
+
+A Chrome extension that uses document context and AI to explain unfamiliar words while reading PDFs.
+
+**React, TypeScript, PDF.js, Gemini, NVIDIA NIM, IndexedDB**
+
+[View Project](https://github.com/dipesh-gir-i/context-reader)
 
 ### Valorant Performance Analyzer
 
-A data analysis project for evaluating Valorant player performance using data preprocessing, statistical analysis, and visualization.
+A data science project exploring gameplay performance, consistency, and win/loss patterns through match statistics.
 
-[View Project](https://github.com/dipesh-gir-i/Valorant-Performace-Analyzer)
+**Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly**
+
+[View Project](https://github.com/dipesh-gir-i/valorant-performance-analyzer)
+
+## Areas I Like Working In
+
+* Data Science and Analytics
+* Machine Learning and AI
+* Data Visualization
+* AI-powered Applications
+* Software and Product Development
+
+## Tools I Work With
+
+**Languages:** Python, SQL, C, JavaScript, TypeScript
+
+**Data and ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+
+**Development:** React, Vite, PDF.js, IndexedDB
+
+**Tools:** Git, GitHub, Jupyter, Excel, Power BI, Tableau
+
+## How I Learn
+
+I learn best by building.
+
+I like taking an idea, figuring out what I need to learn, and turning it into a working project rather than stopping at tutorials or theory.
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/dipesh-giri-26188b323/
-* Email: [giridipesh2100@gmail.com](mailto:giridipesh2100@gmail.com)
+[LinkedIn](https://linkedin.com/in/dipesh-giri-26188b323/)
