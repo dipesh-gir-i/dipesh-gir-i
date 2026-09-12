@@ -22,7 +22,7 @@ A data science project exploring gameplay performance, consistency, and win/loss
 
 **Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly**
 
-[View Project](https://github.com/dipesh-gir-i/valorant-performance-analyzer)
+[View Project](https://github.com/dipesh-gir-i/Valorant-Performace-Analyzer)
 
 ## Areas I Like Working In
 
