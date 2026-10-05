@@ -1,35 +1,35 @@
-# `> whoami`
+# Hi, I'm Dipesh Giri
 
-```python
-class Dipesh:
-    focus = ["Data Science", "AI", "Software"]
-    building = "Arth.Find"
-    languages = ["Python", "SQL", "C", "JavaScript", "TypeScript"]
-    tools = ["React", "Pandas", "NumPy", "Scikit-learn", "Git"]
-    interested_in = ["Machine Learning", "AI Applications", "Data", "Product Development"]
-    status = "building, learning, and figuring things out"
-```
+I like taking ideas that start as "What if?" and make them real.
+I'm interested in data, AI, and software development. I enjoy experimenting with new ideas, building things from scratch, and finding practical ways to solve problems.
 
 ## What I'm Building
 
 ### Arth.Find
 
-An AI-powered browser extension that gives readers context-aware meanings for words, phrases, and sentences directly on the page.
-
-**Python, FastAPI, React, TypeScript, PDF.js, PostgreSQL, Gemini, OpenAI, NVIDIA NIM**
+Arth.Find is an AI-powered browser extension that gives PDF and e-book readers instant, context-aware word meanings right on the page, with no new tabs or interruptions. It uses an LLM to explain what a word means in the context of what you're reading, helping readers stay focused and finish books faster.
 
 [View Project](https://github.com/Gargee1989/ArthFind)
+[Website (under development)](https://arthfind.tech)
 
-## What I Like Working On
+## Areas I Like Working In
 
-Data, AI, machine learning, and software that solves practical problems.
+- Data Science and Analytics
+- Machine Learning and AI
+- Data Visualization
+- AI-powered Applications
+- Software and Product Development
 
-I enjoy taking an idea, learning whatever I need along the way, and turning it into something that actually works.
+## Tools I Work With
 
-## Currently Learning
+**Languages:** Python, SQL, C, JavaScript, TypeScript, R
 
-Machine Learning, backend development, system design, and better ways to build and ship AI-powered products.
+**Data and ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+
+**Development:** React, Vite, Chrome Extensions, PDF.js, IndexedDB
+
+**Tools:** Git, GitHub, Jupyter, Excel, Power BI, Tableau
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/dipesh-giri/) · [GitHub](https://github.com/dipesh-gir-i)
+[LinkedIn](https://linkedin.com/in/dipesh-giri-26188b323/)
