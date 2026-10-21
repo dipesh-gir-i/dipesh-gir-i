@@ -9,7 +9,7 @@ I'm interested in data, AI, and software development. I enjoy experimenting with
 
 Arth.Find is an AI-powered browser extension that gives PDF and e-book readers instant, context-aware word meanings right on the page, with no new tabs or interruptions. It uses an LLM to explain what a word means in the context of what you're reading, helping readers stay focused and finish books faster.
 
-[View Project](https://github.com/Gargee1989/ArthFind)
+[View Project]([https://github.com/Gargee1989/ArthFind](https://chromewebstore.google.com/detail/chekciphhfcfglnlbaclchafimbabggp?utm_source=item-share-cb))
 [Website (under development)](https://arthfind.tech)
 
 ## Areas I Like Working In
